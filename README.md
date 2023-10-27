@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Younes Mansous.
-- 👀 I’m interested in Game Devleppement.
+- 👀 I’m interested in Game Devloppement.
 - 🌱 I’m currently learning Programming Fundamentals.
 - 💞️ I’m looking to collaborate on Game Devloppement.
 - 📫 How to reach me Younesmansous@gmail.com.
